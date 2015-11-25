@@ -1,0 +1,12 @@
+Half of it consisted of adding features to existing services and the rest dealt with  
+[7:34:41 PM] irlantikonsultti: grunt was the new gulp
+[7:34:53 PM] irlantikonsultti: =grunt was replaced by gulp
+[7:35:07 PM] irlantikonsultti: Gulp is the new black
+[7:36:04 PM] irlantikonsultti: Will there be a new “black” tomorrow? There usually is
+[7:36:10 PM] irlantikonsultti: it’s likely
+[7:36:49 PM] irlantikonsultti: Someone is always replacing someone else
+[7:36:53 PM] irlantikonsultti: replaced
+[7:37:25 PM] irlantikonsultti: takes someone else’s place
+[7:37:48 PM] irlantikonsultti: There is a revolving door of workers
+[7:38:54 PM] irlantikonsultti: You had people coming and going all the time
+
